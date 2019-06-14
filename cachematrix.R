@@ -1,4 +1,4 @@
-## Author: lspugh-su
+## Author: Lisa
 ## Date: 6/13/19
 
 ## Two functions makeCacheMatrix & cachSolve
